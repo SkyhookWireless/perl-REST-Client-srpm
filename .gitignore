@@ -2,10 +2,8 @@
 *.out
 *.repo
 *.rpm
-*.spec
 */
 *[0-9]
-*spec
 *~
 epel-*
 fedora-*
